@@ -5,6 +5,8 @@ authors = ["Paul Liétar <paul@lietar.net>"]
 build = "build.rs"
 
 [dependencies]
-mod_path = "~0.1.5"
 protobuf = "~1.0.4"
 
+[dependencies.mod_path]
+git = "https://github.com/simphax/rust-std-candidates.git"
+branch = "dev"

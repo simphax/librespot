@@ -31,7 +31,7 @@ tempfile    = "~1.1.1"
 vorbis      = "~0.0.12"
 
 [dependencies.protobuf_macros]
-git = "https://github.com/plietar/rust-protobuf-macros.git"
+git = "https://github.com/simphax/rust-protobuf-macros.git"
 [dependencies.shannon]
 git = "https://github.com/plietar/rust-shannon.git"
 [dependencies.portaudio]
